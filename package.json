@@ -2,10 +2,10 @@
   "name": "tercerdesafio",
   "version": "1.0.0",
   "description": "Tercer desafio curso Backend",
-  "main": "index.js",
+  "main": "./src/app.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "nodemon run index.js"
+    "start": "nodemon run app.js"
   },
   "author": "",
   "license": "ISC",
